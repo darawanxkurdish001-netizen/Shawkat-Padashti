@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Shawkat Padashti
 <html lang="ku">
 <head>
   <meta charset="UTF-8" />
@@ -108,12 +108,12 @@
       padding: 25px;
       font-size: 15px;
     }
-  </style>
+  </style>Phono1661.png
 </head>
 <body>
 
 <header>
-  <img src="profile.jpg" alt="وێنەی مامۆستا شەوکەت" style="width:180px;height:180px;border-radius:50%;object-fit:cover;border:5px solid #fff;box-shadow:0 8px 20px rgba(0,0,0,0.25);margin-bottom:20px;" />
+  <img src="Phono1661.png" alt="وێنەی مامۆستا شەوکەت" style="width:180px;height:180px;border-radius:50%;object-fit:cover;border:5px solid #fff;box-shadow:0 8px 20px rgba(0,0,0,0.25);margin-bottom:20px;" />
   <h1>مامۆستا شەوکەت</h1>
   <p>مامۆستای زمانی عەرەبی – فێرکردن بە شێوازی سادە و کاریگەر</p>
 </header>
