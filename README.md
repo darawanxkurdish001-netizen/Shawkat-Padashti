@@ -1,4 +1,4 @@
-Shawkat Padashti
+      نوسەرو مامۆستای زمانی عەرەبی
 <html lang="ku">
 <head>
   <meta charset="UTF-8" />
